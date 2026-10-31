@@ -1,0 +1,6 @@
+{
+  "name": "Sub-Regional P&L Dashboard",
+  "description": "Enterprise Sub-Regional Profit & Loss Dashboard with WK-wise financial data entry, validation engine, Indian and international currency formatting, and three-sheet Excel workbook export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
